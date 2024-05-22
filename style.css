@@ -1,0 +1,24 @@
+.box1 {
+    width: 200px;
+    height: 200px;
+    background-color:hwb(0 100% 0%);
+    box-shadow: 5px 10px inset;
+    border: 2px solid black;
+}
+.box2 {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+     box-shadow:  rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+     border: 2px solid black;  
+
+    
+}
+.box3 {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    box-shadow:  rgba(0, 0, 0, 0.35) 0px 5px 15px;    
+    border: 2px solid black;
+    
+}
